@@ -1,2 +1,2 @@
 # HTML-Basics
-it was a practice on HTML basic syntax. 
+It was a practice on HTML basic syntax. 
